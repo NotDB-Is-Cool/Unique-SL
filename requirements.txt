@@ -1,0 +1,7 @@
+opencv-python
+pyautogui
+discord.py
+requests
+pyinstaller
+py2exe
+cx-Freeze
