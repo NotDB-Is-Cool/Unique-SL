@@ -2,7 +2,7 @@ Steps IMPORTANT! PLEASE FOLLOW.
 
 1:
 
-First Run Install.py. (TO INSTALL PAKAGES)
+First Run Python Install.bat and install python 3.11.4 then open Install.bat (TO INSTALL PAKAGES)
 -----------------------------------------
 2:
 

