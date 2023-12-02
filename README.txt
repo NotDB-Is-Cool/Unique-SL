@@ -14,7 +14,7 @@ To make exe run py2exe and get the path of main.py and select the options to ur 
 ---------------------------------------------------------------------------------------------------------------------------
 4:
 
-Then Go to the output folder and enjoy! (NOTE: THIS IS NOT A TOKEN LOGGER.)
+Then Go to the output folder it created and enjoy! (NOTE: THIS IS NOT A TOKEN LOGGER.)
 ---------------------------------------
 
 
